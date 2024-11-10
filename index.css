@@ -215,6 +215,9 @@ footer .container{
         padding-bottom: 0;
         padding-right: 15px;
     }
+    nav a:not(:last-child){
+        margin-right: 15px;
+    }
     #hero h1{
         font-size: 5em;
     }
